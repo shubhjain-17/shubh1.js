@@ -1,0 +1,9 @@
+git checkout<branch name>
+ <!-- 
+    m ka matllb hota he modified M aega uske age   deploy ke lie push karna hota h 
+git push origin nira
+git status command - it shows the current status or changes.
+git add git add files ke changes ko attach karta he 
+git add.;;; git comit -m "updated index";git push origin branchname(niraj);
+git pull origin niraj;
+-->
